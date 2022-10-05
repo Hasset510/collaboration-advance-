@@ -1,3 +1,3 @@
 # collaboration-advance-
 
-This porject is testing github knowledge 
+This project is testing designed to test and demonstrate knowledge and understanding of git and github in a collaborative environment. 
